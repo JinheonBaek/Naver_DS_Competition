@@ -1,1 +1,4 @@
-### 여기는 파이리 구역
+## Jinheon
+
+### Init: Simple
+### Base-line: Nan to mid & mode, run simpler models
