@@ -1,4 +1,4 @@
-## Jinheon
+Jinheon's workspace
 
-### Init: Simple
-### Base-line: Nan to mid & mode, run simpler models
+If you have any questions, plz email to me </br>
+Jinheon.Baek@outlook.kr
